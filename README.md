@@ -57,3 +57,20 @@ Terminates loop immediately, moves to the next statement after the loop.
 
 ## Continue statement
 Skips the rest of the code inside the loop for the current iteration and moves to the next iteration.
+
+# Nested Loops
+A loop inside another loop! Inception.
+Useful for running over multi-dimensional structures, like MATRIX.
+
+## Practice Example 1
+Print a right-angled triangle pattern of stars. (stars = 5)
+*
+**
+***
+****
+*****
+
+## Practice Example 2
+Count the occurence of a letter in a list
+
+# enumerate() function
