@@ -22,12 +22,12 @@ Example: Counting coins in your piggy bank
 'If' condition would decide whether or not to run the intended block. whereas,
 Loops would decide how many times the user wants to run the intended block
 
-# While loop
-While the condition is met, keep executing the intended block. If not met, skip the block.
-
 Things to consider:
     - Program can enter the loop
     - Program can exit the loop
+
+# While loop
+While the condition is met, keep executing the intended block. If not met, skip the block.
 
 ## Range
 Its a pre-defined function that generates a sequence of numbers.
@@ -74,3 +74,5 @@ Print a right-angled triangle pattern of stars. (stars = 5)
 Count the occurence of a letter in a list
 
 # enumerate() function
+Used to access the index and the value of the elements of the list.
+Use two variables in for loop.
